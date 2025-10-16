@@ -1,0 +1,16 @@
+body {
+  background-color: #f0fff0;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+form {
+  display: inline-block;
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px lightgray;
+}
+
+
+
